@@ -17,18 +17,18 @@ public:
                 else mat[i][j] = -1; // Mark ones as unvisited
             }
         }
-        vector<int> DIR = {0,1,2,3};
-        // vector<vector<int>> directions = {{0, -1}, {0, 1}, {-1, 0}, {1, 0}};
+        // vector<int> DIR = {0,1,2,3};
+        vector<vector<int>> dirs = {{0, -1}, {0, 1}, {-1, 0}, {1, 0}};
         while (!q.empty()) {
             auto [r, c] = q.front();
             q.pop();
 
             // for (vector<int> DIR : directions) {
             for (int i = 0; i < 4; ++i) {
-                // int nRow = r + DIR[0];
-                // int nCol = c + DIR[1];
-                int nRow = r + (DIR[i]%2 - DIR[i]/2);
-                int nCol = c + (0-DIR[i]/2 + 1 - DIR[i]%2);
+                int nRow = r + dirs[i][0];
+                int nCol = c + dirs[i][1];
+                // int nRow = r + (DIR[i]%2 - DIR[i]/2);
+                // int nCol = c + (0-DIR[i]/2 + 1 - DIR[i]%2);
 
                 if (nRow < 0 || nRow == mRows || nCol < 0 || nCol == mCols || mat[nRow][nCol] != -1) continue;
                 mat[nRow][nCol] = mat[r][c] + 1;
