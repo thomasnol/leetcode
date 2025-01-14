@@ -13,13 +13,15 @@ class Solution:
             adj[p[1]].append(p[0])
             indeg[p[0]] += 1
         
-        queue = []
+        # queue = []
+        queue = deque([])
         for i in range(numCourses):
             if indeg[i] == 0: queue.append(i)
         
         visited = 0
         while queue:
-            node = queue.pop(0)
+            # node = queue.pop(0)
+            node = queue.popleft()
             visited += 1
             for nei in adj[node]:
                 indeg[nei] -= 1
