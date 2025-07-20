@@ -9,24 +9,18 @@ class Node:
 from typing import Optional
 class Solution:
     def cloneGraph(self, node: Optional['Node']) -> Optional['Node']:
-        if not node:
-            return None
-        
-        stk = [node]
-        oton = {}
-        visited = set()
-        visited.add(node)
+        if not node: return None
+        # breadth first search
+        # mapping old nodes to new nodes?
+        old_to_new = {}
+        queue = [node]
+        old_to_new[node] = Node(node.val)
 
-        while stk:
-            cur = stk.pop()
-            oton[cur] = Node(val=cur.val)
-            for nei in cur.neighbors:
-                if nei in visited: continue
-                visited.add(nei)
-                stk.append(nei)
-        
-        for key, val in oton.items():
-            for nei in key.neighbors:
-                val.neighbors.append(oton[nei])
-        
-        return oton[node]
+        while queue:
+            oldnode = queue.pop(0)
+            for neighbor in oldnode.neighbors:
+                if neighbor not in old_to_new: # if not visited / not exists
+                    old_to_new[neighbor] = Node(neighbor.val)
+                    queue.append(neighbor)
+                old_to_new[oldnode].neighbors.append(old_to_new[neighbor])
+        return old_to_new[node]
