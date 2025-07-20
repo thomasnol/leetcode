@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/thomasnol/leetcode/tree/master/0001-two-sum) |
+| [0054-spiral-matrix](https://github.com/thomasnol/leetcode/tree/master/0054-spiral-matrix) |
 | [0217-contains-duplicate](https://github.com/thomasnol/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/thomasnol/leetcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/thomasnol/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -60,4 +61,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/thomasnol/leetcode/tree/master/0133-clone-graph) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/thomasnol/leetcode/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/thomasnol/leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
