@@ -15,24 +15,19 @@ class Solution:
         root = ListNode(0)
         pointer = root
         remainder = 0
-        while l1 or l2 or remainder == 1:
-            newval = 0
-            if l1:
-                val1 = l1.val
-                l1 = l1.next
-                newval += val1
-            if l2:
-                val2 = l2.val
-                l2 = l2.next
-                newval += val2
-            newval += remainder
-            if newval >= 10:
-                remainder = 1
-                newval -= 10
-            else:
-                remainder = 0
-            newnode = ListNode(newval)
-            pointer.next = newnode
+        while l1 or l2 or remainder:
+            val1 = l1.val if l1 else 0
+            val2 = l2.val if l2 else 0
+
+            newval = val1 + val2 + remainder 
+            remainder = newval // 10
+            newval = newval % 10
+            pointer.next = ListNode(newval)
             pointer = pointer.next
+
+            if l1:
+                l1 = l1.next
+            if l2:
+                l2 = l2.next
 
         return root.next
