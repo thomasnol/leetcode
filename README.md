@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/thomasnol/leetcode/tree/master/0054-spiral-matrix) |
+| [2470-removing-stars-from-a-string](https://github.com/thomasnol/leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Union Find
 |  |
 | ------- |
@@ -86,4 +87,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/thomasnol/leetcode/tree/master/0002-add-two-numbers) |
+## String
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/thomasnol/leetcode/tree/master/2470-removing-stars-from-a-string) |
+## Stack
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/thomasnol/leetcode/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
