@@ -87,12 +87,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/thomasnol/leetcode/tree/master/0002-add-two-numbers) |
+| [0394-decode-string](https://github.com/thomasnol/leetcode/tree/master/0394-decode-string) |
 ## String
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/thomasnol/leetcode/tree/master/0394-decode-string) |
 | [2470-removing-stars-from-a-string](https://github.com/thomasnol/leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Stack
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/thomasnol/leetcode/tree/master/0394-decode-string) |
 | [2470-removing-stars-from-a-string](https://github.com/thomasnol/leetcode/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
