@@ -26,6 +26,5 @@ class Solution:
                     mult = stack.pop() + mult
                 curstring *= int(mult)
                 stack.append(curstring)
-        
         return "".join(stack)
-                
+        
