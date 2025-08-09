@@ -19,7 +19,6 @@ class Solution:
         # print(prefix)
         # print(suffix)
         # return 0
-        for i, c in enumerate(height):
-            tempres = min(prefix[i], suffix[i]) - height[i]
-            res += max(0, tempres)
+        for i in range(len(height)):
+            res += max(0, min(prefix[i], suffix[i]) - height[i])
         return res
