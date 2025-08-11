@@ -40,13 +40,19 @@ class Solution:
 
 
         # @cache
-        @lru_cache
+        # @lru_cache
+        lookup = {}
         def f(i):
+            if i in lookup:
+                return lookup[i]
+            
             if i >= len(nums):
                 return 0
             
             rob = nums[i] + f(i+2)
             not_rob = f(i+1)
+
+            lookup[i] = max(rob, not_rob)
 
             return max(rob, not_rob)
 
