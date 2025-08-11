@@ -1,5 +1,9 @@
 class Solution:
     def trap(self, height: List[int]) -> int:
+        # left and right pointer, 2 pointers:
+        # leftmax, rightmax
+        # either left += 1 or right -= 1, aim is to maximize the min(leftmax, rightmax)
+        # then to count water, simply do min(leftmax, rightmax) - current height
         left = 0
         right = len(height) - 1
         left_max = height[left]
@@ -10,13 +14,47 @@ class Solution:
             if left_max < right_max:
                 left += 1
                 left_max = max(left_max, height[left])
+                # water += min(left_max, right_max) - height[left]
                 water += left_max - height[left]
             else:
                 right -= 1
                 right_max = max(right_max, height[right])
+                # water += min(left_max, right_max) - height[right]
                 water += right_max - height[right]
         
         return water
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        # left = 0
+        # right = len(height) - 1
+        # left_max = height[left]
+        # right_max = height[right]
+        # water = 0
+
+        # while left < right:
+        #     if left_max < right_max:
+        #         left += 1
+        #         left_max = max(left_max, height[left])
+        #         water += left_max - height[left]
+        #     else:
+        #         right -= 1
+        #         right_max = max(right_max, height[right])
+        #         water += right_max - height[right]
+        
+        # return water
         
         # inefficient solution:
         # lmax = 0
