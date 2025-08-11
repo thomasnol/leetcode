@@ -39,7 +39,8 @@ class Solution:
 
 
 
-        @cache
+        # @cache
+        @lru_cache
         def f(i):
             if i >= len(nums):
                 return 0
