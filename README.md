@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/thomasnol/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/thomasnol/leetcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/thomasnol/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0782-jewels-and-stones](https://github.com/thomasnol/leetcode/tree/master/0782-jewels-and-stones) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/thomasnol/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
 |  |
@@ -97,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/thomasnol/leetcode/tree/master/0394-decode-string) |
+| [0782-jewels-and-stones](https://github.com/thomasnol/leetcode/tree/master/0782-jewels-and-stones) |
 | [1651-shuffle-string](https://github.com/thomasnol/leetcode/tree/master/1651-shuffle-string) |
 | [2470-removing-stars-from-a-string](https://github.com/thomasnol/leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Stack
