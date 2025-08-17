@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/thomasnol/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1395-minimum-time-visiting-all-points](https://github.com/thomasnol/leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/thomasnol/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1651-shuffle-string](https://github.com/thomasnol/leetcode/tree/master/1651-shuffle-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/thomasnol/leetcode/tree/master/0394-decode-string) |
+| [1651-shuffle-string](https://github.com/thomasnol/leetcode/tree/master/1651-shuffle-string) |
 | [2470-removing-stars-from-a-string](https://github.com/thomasnol/leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Stack
 |  |
