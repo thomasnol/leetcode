@@ -4,5 +4,4 @@ class Solution:
         for i in range(len(s)):
             # res[i] = s[indices[i]]
             res[indices[i]] = s[i]
-        res = "".join(res)
-        return res
+        return "".join(res)
