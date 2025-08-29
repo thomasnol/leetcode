@@ -16,7 +16,6 @@ class Solution:
         invalid = (-10)**5
         n = len(nums)
         invalid_count = 0
-        
         curr = nums[0]
         counter = 0
         for i in range(n):
@@ -28,8 +27,6 @@ class Solution:
             if counter >= 3:
                 nums[i] = invalid
                 invalid_count += 1
-        # print(nums)
-        
         
         left = 0
         for right in range(n):
@@ -38,14 +35,5 @@ class Solution:
             if nums[right] == invalid:
                 continue
             nums[left], nums[right] = nums[right], nums[left]
-        # left, right = 0, 0
-        # while right < n:
-        #     while nums[left] != invalid and left < right:
-        #         left += 1
-        #     while nums[right] == invalid and right < n:
-        #         right += 1
-            
-        #     nums[left], nums[right] = nums[right], nums[left]
-            
-        print(nums)
+    
         return n - invalid_count
