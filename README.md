@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0394-decode-string](https://github.com/thomasnol/leetcode/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/thomasnol/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0782-jewels-and-stones](https://github.com/thomasnol/leetcode/tree/master/0782-jewels-and-stones) |
+| [1250-longest-common-subsequence](https://github.com/thomasnol/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1651-shuffle-string](https://github.com/thomasnol/leetcode/tree/master/1651-shuffle-string) |
 | [2470-removing-stars-from-a-string](https://github.com/thomasnol/leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Stack
@@ -135,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/thomasnol/leetcode/tree/master/0062-unique-paths) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/thomasnol/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/thomasnol/leetcode/tree/master/0198-house-robber) |
+| [1250-longest-common-subsequence](https://github.com/thomasnol/leetcode/tree/master/1250-longest-common-subsequence) |
 ## Monotonic Stack
 |  |
 | ------- |
