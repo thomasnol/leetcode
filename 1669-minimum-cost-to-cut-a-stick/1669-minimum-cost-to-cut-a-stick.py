@@ -8,7 +8,7 @@ class Solution:
             if left > right:
                 return 0
             
-            cost = 1e9
+            cost = 1e10
             
             for cut_index in range(left, right+1):
                 cut_val = cuts[cut_index]
