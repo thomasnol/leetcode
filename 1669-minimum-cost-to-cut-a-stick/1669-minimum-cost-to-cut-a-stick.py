@@ -8,7 +8,7 @@ class Solution:
             if left > right:
                 return 0
             
-            cost = 1e10
+            cost = 1e9
             
             for cut_index in range(left, right+1):
                 cut_val = cuts[cut_index]
@@ -19,6 +19,4 @@ class Solution:
             return cost
         
         return f(0, n, 0, len(cuts)-1)
-        
-
         
