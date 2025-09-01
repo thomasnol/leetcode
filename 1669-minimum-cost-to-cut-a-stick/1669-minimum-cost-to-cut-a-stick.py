@@ -19,7 +19,7 @@ class Solution:
         
         @cache
         def f(start_stick, end_stick, left, right):
-            print("the thing ran")
+           
             if left > right:
                 return 0
             
