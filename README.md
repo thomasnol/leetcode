@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1395-minimum-time-visiting-all-points](https://github.com/thomasnol/leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/thomasnol/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1651-shuffle-string](https://github.com/thomasnol/leetcode/tree/master/1651-shuffle-string) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/thomasnol/leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Hash Table
 |  |
 | ------- |
@@ -51,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/thomasnol/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/thomasnol/leetcode/tree/master/0268-missing-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/thomasnol/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/thomasnol/leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Counting Sort
 |  |
 | ------- |
@@ -137,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/thomasnol/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/thomasnol/leetcode/tree/master/0198-house-robber) |
 | [1250-longest-common-subsequence](https://github.com/thomasnol/leetcode/tree/master/1250-longest-common-subsequence) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/thomasnol/leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Monotonic Stack
 |  |
 | ------- |
