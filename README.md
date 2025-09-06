@@ -98,10 +98,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/thomasnol/leetcode/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/thomasnol/leetcode/tree/master/0010-regular-expression-matching) |
 | [0394-decode-string](https://github.com/thomasnol/leetcode/tree/master/0394-decode-string) |
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/thomasnol/leetcode/tree/master/0010-regular-expression-matching) |
 | [0394-decode-string](https://github.com/thomasnol/leetcode/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/thomasnol/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0782-jewels-and-stones](https://github.com/thomasnol/leetcode/tree/master/0782-jewels-and-stones) |
@@ -134,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/thomasnol/leetcode/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/thomasnol/leetcode/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/thomasnol/leetcode/tree/master/0062-unique-paths) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/thomasnol/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
