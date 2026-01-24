@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/thomasnol/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1651-shuffle-string](https://github.com/thomasnol/leetcode/tree/master/1651-shuffle-string) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/thomasnol/leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [2352-equal-row-and-column-pairs](https://github.com/thomasnol/leetcode/tree/master/2352-equal-row-and-column-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/thomasnol/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0782-jewels-and-stones](https://github.com/thomasnol/leetcode/tree/master/0782-jewels-and-stones) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/thomasnol/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2352-equal-row-and-column-pairs](https://github.com/thomasnol/leetcode/tree/master/2352-equal-row-and-column-pairs) |
 ## Math
 |  |
 | ------- |
@@ -83,10 +85,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0054-spiral-matrix](https://github.com/thomasnol/leetcode/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/thomasnol/leetcode/tree/master/0200-number-of-islands) |
+| [2352-equal-row-and-column-pairs](https://github.com/thomasnol/leetcode/tree/master/2352-equal-row-and-column-pairs) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/thomasnol/leetcode/tree/master/0054-spiral-matrix) |
+| [2352-equal-row-and-column-pairs](https://github.com/thomasnol/leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/thomasnol/leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Union Find
 |  |
