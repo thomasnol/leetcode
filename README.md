@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/thomasnol/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1651-shuffle-string](https://github.com/thomasnol/leetcode/tree/master/1651-shuffle-string) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/thomasnol/leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/thomasnol/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2352-equal-row-and-column-pairs](https://github.com/thomasnol/leetcode/tree/master/2352-equal-row-and-column-pairs) |
 ## Hash Table
 |  |
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/thomasnol/leetcode/tree/master/0268-missing-number) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/thomasnol/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -55,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/thomasnol/leetcode/tree/master/0268-missing-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/thomasnol/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/thomasnol/leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/thomasnol/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Counting Sort
 |  |
 | ------- |
@@ -141,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0042-trapping-rain-water](https://github.com/thomasnol/leetcode/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/thomasnol/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/thomasnol/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Dynamic Programming
 |  |
 | ------- |
