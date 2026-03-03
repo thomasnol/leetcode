@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/thomasnol/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/thomasnol/leetcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/thomasnol/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1207-unique-number-of-occurrences](https://github.com/thomasnol/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1395-minimum-time-visiting-all-points](https://github.com/thomasnol/leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/thomasnol/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/thomasnol/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/thomasnol/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/thomasnol/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0782-jewels-and-stones](https://github.com/thomasnol/leetcode/tree/master/0782-jewels-and-stones) |
+| [1207-unique-number-of-occurrences](https://github.com/thomasnol/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/thomasnol/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2352-equal-row-and-column-pairs](https://github.com/thomasnol/leetcode/tree/master/2352-equal-row-and-column-pairs) |
 ## Math
