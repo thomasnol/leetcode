@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/thomasnol/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/thomasnol/leetcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/thomasnol/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0605-can-place-flowers](https://github.com/thomasnol/leetcode/tree/master/0605-can-place-flowers) |
 | [1207-unique-number-of-occurrences](https://github.com/thomasnol/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1395-minimum-time-visiting-all-points](https://github.com/thomasnol/leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/thomasnol/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -179,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/thomasnol/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/thomasnol/leetcode/tree/master/0135-candy) |
+| [0605-can-place-flowers](https://github.com/thomasnol/leetcode/tree/master/0605-can-place-flowers) |
 ## Interactive
 |  |
 | ------- |
