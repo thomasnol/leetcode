@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/thomasnol/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/thomasnol/leetcode/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/thomasnol/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0872-leaf-similar-trees](https://github.com/thomasnol/leetcode/tree/master/0872-leaf-similar-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -138,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/thomasnol/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/thomasnol/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0872-leaf-similar-trees](https://github.com/thomasnol/leetcode/tree/master/0872-leaf-similar-trees) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -147,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/thomasnol/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/thomasnol/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0872-leaf-similar-trees](https://github.com/thomasnol/leetcode/tree/master/0872-leaf-similar-trees) |
 ## Two Pointers
 |  |
 | ------- |
