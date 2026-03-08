@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/thomasnol/leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/thomasnol/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/thomasnol/leetcode/tree/master/0268-missing-number) |
+| [0334-increasing-triplet-subsequence](https://github.com/thomasnol/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/thomasnol/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0605-can-place-flowers](https://github.com/thomasnol/leetcode/tree/master/0605-can-place-flowers) |
 | [1207-unique-number-of-occurrences](https://github.com/thomasnol/leetcode/tree/master/1207-unique-number-of-occurrences) |
@@ -183,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/thomasnol/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/thomasnol/leetcode/tree/master/0135-candy) |
+| [0334-increasing-triplet-subsequence](https://github.com/thomasnol/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/thomasnol/leetcode/tree/master/0605-can-place-flowers) |
 ## Interactive
 |  |
