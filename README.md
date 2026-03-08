@@ -165,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/thomasnol/leetcode/tree/master/0062-unique-paths) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/thomasnol/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/thomasnol/leetcode/tree/master/0198-house-robber) |
+| [0790-domino-and-tromino-tiling](https://github.com/thomasnol/leetcode/tree/master/0790-domino-and-tromino-tiling) |
 | [1250-longest-common-subsequence](https://github.com/thomasnol/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/thomasnol/leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Monotonic Stack
