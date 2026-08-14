@@ -13,6 +13,6 @@ class Solution:
             if freqmap[total - k]:
                 res += freqmap[total - k]
             freqmap[total] += 1
-        print(freqmap)
+        # print(freqmap)
         return res
             
