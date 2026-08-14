@@ -8,9 +8,11 @@ class Solution:
 
         for i, n in enumerate(nums):
             total += n
-            print(total)
+            # print(total)
             if freqmap[total - k]:
                 res += freqmap[total - k]
+                if freqmap[total - k] == 0:
+                    print("BAD")
             freqmap[total] += 1
         return res
             
